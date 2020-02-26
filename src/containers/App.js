@@ -8,7 +8,7 @@ import './App.css';
 
 import { setSearchField, requestRobots } from '../actions';
 
-const mapStatetoProps = state => {
+const mapStateToProps = state => {
     return {
         searchField: state.searchRobots.searchField,
         robots: state.requestRobots.robots,
@@ -51,4 +51,4 @@ class App extends Component {
     }
 }
 
-export default connect(mapStatetoProps, mapDispatchToProps)(App);
+export default connect(mapStateToProps, mapDispatchToProps)(App);
