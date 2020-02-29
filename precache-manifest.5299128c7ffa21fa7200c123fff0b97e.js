@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/react-robofriends/static/media/Street-Robot-Inline.bee9144f.woff"
   },
   {
-    "revision": "8a66b553a04d227d9a7dbc90504893ef",
+    "revision": "f76e9ea5484d23099b92d3a5dbc129c2",
     "url": "/react-robofriends/index.html"
   }
 ];
