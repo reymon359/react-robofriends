@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2612ea92a4748b9bf26f",
+    "revision": "de7bd7a8d292fc225594",
     "url": "/react-robofriends/static/css/main.b10eab8c.chunk.css"
   },
   {
-    "revision": "2612ea92a4748b9bf26f",
-    "url": "/react-robofriends/static/js/main.23a5f775.chunk.js"
+    "revision": "de7bd7a8d292fc225594",
+    "url": "/react-robofriends/static/js/main.c9fccfba.chunk.js"
   },
   {
     "revision": "238297068e2e665c321e",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/react-robofriends/static/media/Street-Robot-Inline.bee9144f.woff"
   },
   {
-    "revision": "f76e9ea5484d23099b92d3a5dbc129c2",
+    "revision": "25d9e1159a8c892e6fe46a18cbd63b94",
     "url": "/react-robofriends/index.html"
   }
 ];
