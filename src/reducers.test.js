@@ -7,14 +7,14 @@ const initialStateSearch = {
 describe('searchRobots reducer', () => {
     it('should return the initial state', () => {
         expect(reducers.searchRobots(undefined, {})).toEqual({
-            searchField: undefined
+            searchField: ''
         });
     });
 
-    it('should handle CHANGE_SEARCHFIELD', () => {
+    it('should handle CHANGE_SEARCH_FIELD', () => {
         expect(
             reducers.searchRobots(initialStateSearch, {
-                type: types.CHANGE_SEARCHFIELD,
+                type: types.CHANGE_SEARCH_FIELD,
                 payload: 'abc'
             })
         ).toEqual({
